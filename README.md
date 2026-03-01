@@ -1,5 +1,8 @@
 #  Mean and variance of a discrete  distribution
-
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 # Aim 
 
@@ -49,8 +52,6 @@ It shows the distance of a random variable from its mean. It is calcualted as
 
 # Program 
 
-#### DEVELOPED BY : **KABELAN G K**<BR>Reg No : **212224110027**
-
 ### Declaring the value of n
 
 ```python
@@ -97,13 +98,7 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 ```
 
 # Output 
-
-### Refer to the following images to view the output of the program
-![alt text](<Output Images/image.png>)
-![alt text](<Output Images/image-1.png>) 
-![alt text](<Output Images/image-2.png>) 
-![alt text](<Output Images/image-3.png>) 
-![alt text](<Output Images/image-4.png>) 
+<img width="319" height="237" alt="Screenshot 2026-03-01 121730" src="https://github.com/user-attachments/assets/97b248fb-5a83-422d-b572-60bef81563a7" />
 
 
 # Result 
