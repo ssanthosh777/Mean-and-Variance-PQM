@@ -104,3 +104,6 @@ print(f"Standard Deviation = {sdtDeviation:.3f}")
 # Result 
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
 
+# Link
+https://github.com/ssanthosh777/Mean-and-Variance-PQM
+
