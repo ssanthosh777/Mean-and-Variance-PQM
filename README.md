@@ -1,9 +1,5 @@
-#  Mean and variance of a discrete  distribution
-```
-NAME: SANTHOSH S
-REG.NO: 212224100052
-```
-
+# DATE: 28/01/2026
+# EXP-01: Mean and variance of a discrete  distribution
 # Aim 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
